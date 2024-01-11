@@ -13,8 +13,8 @@
 # limitations under the License.
 
 
-project       = "example"
-creator_email = "example@example.co"
-owner_email   = "example@example.co"
-namespace     = "example"
+project       = "irfantest"
+creator_email = "muhammad.irfan@xgrid.co"
+owner_email   = "muhammad.irfan@xgrid.co"
+namespace     = "irfantest"
 region        = "eu-west-1"
