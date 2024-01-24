@@ -23,4 +23,6 @@ infrastructure/python/
 */*-key
 */*.out
 */*.env
-**/*.zip
+
+infrastructure/modules/serverless/*.zip
+
